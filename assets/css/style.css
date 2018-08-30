@@ -6,9 +6,9 @@
 
 .blackbox{
 	width: 700px;
+	margin: 0 auto;
 	height: 100%;
 	padding: 10px;
-	margin: 0 auto;
 	background-color: black;
 }
 
@@ -196,7 +196,7 @@
 }
 
 .blackbox7{
-	width: 700px;
+	width: 500px;
 	height: 100%;
 	padding: 10px;
 	margin: 0 auto;
@@ -224,6 +224,161 @@
 	overflow: hidden;
 
 }
+
+.blackbox8{
+	width: 500px;
+	height: 100%;
+	padding: 10px;
+	margin: 0 auto;
+	background-color: black;
+}
+.greybox8{
+	width: 100%;
+	height: 100px;
+	background-color: grey;
+}
+.box8left{
+	width: 59%;
+	height: 100%;
+	float: left;
+}
+
+.box8right{
+	width: 40%;
+	height: 100%;
+	float: right;
+}
+
+.greybox8-content{
+	color:white;
+	overflow: hidden;
+
+}
+
+
+.blackbox9{
+	width: 700px;
+	height: 100%;
+	padding: 10px;
+	margin: 0 auto;
+	background-color: black;
+}
+
+.greybox9{
+	width: 150px;
+	height: 150px;
+	margin: 0 5px 5px 0;
+	background-color: grey;
+	float: left;
+}
+
+.greybox9-content{
+	color:white;
+	margin-bottom: 10px; 
+	overflow: hidden;
+
+}
+.box9left{
+	width: 30%;
+	height: 100%;
+	float: left;
+}
+
+.box9right{
+	width: 69%;
+	height: 100%;
+	float: right;
+}
+
+.blackbox10{
+	width: 1000px;
+	height: 100%;
+	padding: 10px;
+	margin: 0 auto;
+	background-color: black;
+}
+
+.black-borderwhite10{
+	width: 150px;
+	height: 150px;
+	padding: 5px;
+	margin: 10px;
+	border:1px solid white;
+	background-color: black;
+	box-sizing: content-box;
+	float: left;
+}
+
+.greybox10-small{
+	width: 100%;
+	height: 68%;
+	background: grey;
+}
+.caption-small{
+	width: 100%;
+	height: 100%;
+}
+
+.greybox10-big{
+	width: 100%;
+	height: 200px;
+	background: grey;
+}
+
+.caption10{
+	color: white;
+	text-align: center;
+	margin: 15px;
+}
+.caption10-white{
+	color: white;
+	margin-right: 5px;
+}
+
+.caption10-white2{
+	color: white;
+	margin-bottom: 10px;
+}
+.menu{
+	width: 100%;
+	margin: 15px 0;
+}
+
+.greybox10-content{
+	color:white;
+	margin-bottom: 10px; 
+	overflow: hidden;
+
+}
+
+.box10-baguio-box{
+	width: 100%;
+}
+
+.greybox10-small2{
+	width: 140px;
+	height: 120px;
+	margin-right: 10px;
+	background: grey;
+	float: left;
+}
+
+.box10left2{
+	float: left;
+}
+
+.box10left{
+	width: 60%;
+	height: 100%;
+	float: left;
+}
+
+.box10right{
+	width: 40%;
+	height: 100%;
+	float: right;
+}
+
 
 .clear:after{
 	content: "";
